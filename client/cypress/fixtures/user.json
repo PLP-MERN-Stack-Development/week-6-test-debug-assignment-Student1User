@@ -1,0 +1,9 @@
+{
+  "_id": "1",
+  "name": "John Doe",
+  "email": "john@example.com",
+  "role": "user",
+  "isActive": true,
+  "createdAt": "2023-01-01T00:00:00.000Z",
+  "updatedAt": "2023-01-01T00:00:00.000Z"
+}

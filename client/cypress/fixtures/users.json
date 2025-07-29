@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "_id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "role": "user",
+      "isActive": true,
+      "createdAt": "2023-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "role": "user",
+      "isActive": true,
+      "createdAt": "2023-01-02T00:00:00.000Z"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 10,
+    "total": 2,
+    "pages": 1
+  }
+}
